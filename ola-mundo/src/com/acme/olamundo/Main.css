@@ -1,0 +1,14 @@
+.root {
+}
+
+.label {
+	-fx-font-size: 16px;
+	-fx-font-weight: bold;
+}
+
+#mensagem {
+	-fx-fill: FIREBRICK;
+	-fx-font-size: 26px;
+	-fx-underline: true;
+}
+
